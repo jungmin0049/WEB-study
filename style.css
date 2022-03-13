@@ -4,7 +4,7 @@ body{
 a {
   color:black;
 }
-h1 {
+h1, li{
   font-size:45px;
   text-align: center;
   border-bottom:1px solid gray;
